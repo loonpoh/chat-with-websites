@@ -29,7 +29,8 @@ cd [repository-directory]
 Install the required packages:
 
 ```bash
-pip install -r requirements.txt
+pcls
+
 ```
 
 Create your own .env file with the following variables:
